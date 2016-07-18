@@ -2,32 +2,128 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c3c388d-4143-4c5e-b224-f178a52c9096" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/AtomicIntegerDemo.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/demo/Test.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/DescendingOrder.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/DescendingOrder.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/DnaStrand.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/DnaStrand.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/EANValidator.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/EANValidator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/ThirdThread.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/ThirdThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Configuration.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Configuration.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java6CatchExample.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java6CatchExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java7CatchExample.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java7CatchExample.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter00/Reduce.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter00/Reduce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/FilterUsingReduce.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/FilterUsingReduce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/MapUsingReduce.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/MapUsingReduce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/Question1.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/Question1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/Question2.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/Question2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter04/Artists.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter04/Artists.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/Fibonacci.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/Fibonacci.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/GroupingBy.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/GroupingBy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/LongestName.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/LongestName.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/Question1.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/Question1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/WordCount.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/WordCount.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/BuggyReduce.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/BuggyReduce.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/OptimisationExampleFixed.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/OptimisationExampleFixed.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/SerialToParallel.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/SerialToParallel.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter09/CompletableFutureArtistAnalyser.class" afterPath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter09/CompletableFutureArtistAnalyser.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/DescendingOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/DnaStrand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/EANValidator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/codewars/Square.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/DaemanThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/FirstThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/InvokeRun.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/JoinThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/PriorityTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/SecondThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/SleepTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/StartDead.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/ThirdThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/crazy/chapter16/YieldTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Configuration$ConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Configuration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java6CatchExample$Configuration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java6CatchExample$ConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java6CatchExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java6ResourcesExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java7CatchExample$Configuration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java7CatchExample$ConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java7CatchExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter01/Java7ResourcesExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/java7/chapter02/Listing_2_1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter00/Reduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/FilterUsingReduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/MapUsingReduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/Question1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/Question2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter03/StringExercises.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter04/Artists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter04/Performance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter04/PerformanceFix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/Fibonacci.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/GroupingBy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/LongestName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/Question1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter05/WordCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/BuggyReduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/OptimisationExampleFixed.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter06/SerialToParallel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter09/ArtistAnalyzer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter09/BlockingArtistAnalyzer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter09/CallbackArtistAnalyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/lambada/chapter09/CompletableFutureArtistAnalyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/model/Album.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/model/Artist.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/model/Member.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/model/Track.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/refactor/chapter01/ChildrensPrice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/refactor/chapter01/Customer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/refactor/chapter01/Movie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/refactor/chapter01/NewReleasePrice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/refactor/chapter01/Price.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/refactor/chapter01/RegularPrice.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/refactor/chapter01/Rental.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/JavaDemo/com/tustar/utils/Keygen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/DescendingOrder (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/DescendingOrder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/DescendingOrderTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/DnaStrand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/DnaStrandTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/EANValidator (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/EANValidator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/EANValidatorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/Square.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/codewars/SquareTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Configuration$ConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Configuration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java6CatchExample$Configuration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java6CatchExample$ConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java6CatchExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java6ResourcesExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java7CatchExample$Configuration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java7CatchExample$ConfigurationException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java7CatchExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter01/Java7ResourcesExample.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/java7/chapter02/Listing_2_1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter00/Reduce (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter00/Reduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/FilterUsingReduce (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/FilterUsingReduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/MapUsingReduce (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/MapUsingReduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/Question1 (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/Question1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/Question2 (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/Question2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter03/StringExercises.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter04/Artists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter04/Performance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter04/PerformanceFix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/Fibonacci (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/Fibonacci.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/GroupingBy (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/GroupingBy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/LongestName (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/LongestName.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/Question1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/WordCount (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter05/WordCount.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter06/BuggyReduce (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter06/BuggyReduce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter06/OptimisationExampleFixed (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter06/OptimisationExampleFixed.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter06/SerialToParallel (Tu's conflicted copy 2015-07-29).class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter06/SerialToParallel.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter09/ArtistAnalyzer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter09/BlockingArtistAnalyzer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter09/CallbackArtistAnalyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/lambada/chapter09/CompletableFutureArtistAnalyser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/model/Album.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/model/Artist.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/model/Member.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/model/Track.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/idea/com/tustar/utils/Keygen.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/codewars/DnaStrand.java" afterPath="$PROJECT_DIR$/src/com/tustar/codewars/DnaStrand.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/codewars/EANValidator.java" afterPath="$PROJECT_DIR$/src/com/tustar/codewars/EANValidator.java" />
@@ -68,7 +164,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AtomicIntegerDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AtomicIntegerDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/tustar/crazy/chapter16/AtomicIntegerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
@@ -77,6 +173,16 @@
                 <element signature="e#427#428#0" expanded="true" />
                 <element signature="e#480#481#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -105,6 +211,7 @@
         <option value="$PROJECT_DIR$/src/com/tustar/test/Test.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/demo/Test.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/AtomicIntegerDemo.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -162,68 +269,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="JavaDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tustar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tustar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JavaDemo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tustar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter16" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -720,16 +765,16 @@
       <updated>1465357037409</updated>
       <workItem from="1465357038721" duration="3075000" />
       <workItem from="1468306160675" duration="1000" />
-      <workItem from="1468833708093" duration="387000" />
+      <workItem from="1468833708093" duration="545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3463000" />
+    <option name="totallyTimeSpent" value="3621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -739,11 +784,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5273899" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -802,6 +847,14 @@
             <element signature="e#427#428#0" expanded="true" />
             <element signature="e#480#481#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
