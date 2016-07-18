@@ -2,7 +2,6 @@ package com.tustar.lambada.chapter04;
 
 import com.tustar.model.Artist;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 

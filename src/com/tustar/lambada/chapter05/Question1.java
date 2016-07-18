@@ -3,7 +3,6 @@ package com.tustar.lambada.chapter05;
 import java.util.List;
 import java.util.stream.Stream;
 
-import static java.util.Arrays.asList;
 import static java.util.stream.Collectors.toList;
 
 /**

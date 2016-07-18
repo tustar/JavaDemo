@@ -1,7 +1,5 @@
 package com.tustar.codewars;
 
-import java.util.stream.Collectors;
-
 /**
  * Created by tustar on 7/26/15.
  */

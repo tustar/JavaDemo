@@ -1,7 +1,5 @@
 package com.tustar.codewars;
 
-import java.util.stream.IntStream;
-
 /**
  * Created by tustar on 7/26/15.
  */

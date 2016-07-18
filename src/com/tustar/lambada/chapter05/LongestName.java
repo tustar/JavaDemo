@@ -2,7 +2,6 @@ package com.tustar.lambada.chapter05;
 
 import com.tustar.model.Artist;
 
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
