@@ -39,7 +39,7 @@ class Business {
             }
         }
         for (int i = 0; i < 100; i++) {
-            System.out.println("main thread seq of " + i + ", loop of " + loop);
+            System.out.println("main multi seq of " + i + ", loop of " + loop);
         }
         bool = true;
         notify();
@@ -55,7 +55,7 @@ class Business {
         }
 
         for (int i = 0; i < 10; i++) {
-            System.out.println("sub thread seq of " + i + ", loop of " + loop);
+            System.out.println("sub multi seq of " + i + ", loop of " + loop);
         }
     }
 }
