@@ -1,18 +1,15 @@
-package com.tustar.multi;
+package com.tustar.java8;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.StringJoiner;
 import java.util.concurrent.*;
 
 /**
  * Created by tustar on 17-3-22.
  */
-public class Hello {
+public class TaE {
     public static void main(String[] args) {
 //        Runnable task = () -> {
 //            String threadName = Thread.currentThread().getName();
-//            System.out.println("Hello " + threadName);
+//            System.out.println("TaE " + threadName);
 //        };
 //
 //        task.run();
@@ -39,7 +36,7 @@ public class Hello {
 //        ExecutorService executor = Executors.newSingleThreadExecutor();
 //        executor.submit(() -> {
 //            String threadName = Thread.currentThread().getName();
-//            System.out.println("Hello " + threadName);
+//            System.out.println("TaE " + threadName);
 //        });
 //
 //        System.out.println("attempt to shutdown executor");
