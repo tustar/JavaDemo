@@ -29,36 +29,7 @@ public class SaL {
     }
 }
 
-abstract class Base {
 
-    protected ExecutorService executor = Executors.newFixedThreadPool(2);
-
-    protected abstract void run();
-
-    protected void stop(ExecutorService executor) {
-        System.out.println("attempt to shutdown executor");
-        executor.shutdown();
-        try {
-            executor.awaitTermination(5, TimeUnit.SECONDS);
-        } catch (InterruptedException e) {
-            System.err.println("tasks interrupted");
-        } finally {
-            if (!executor.isTerminated()) {
-                System.err.println("cancel non-finished tasks");
-            }
-            executor.shutdownNow();
-            System.out.println("shutdown finished");
-        }
-    }
-
-    protected void sleep(long timeout) {
-        try {
-            TimeUnit.SECONDS.sleep(timeout);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-    }
-}
 
 class Demo extends Base {
 
