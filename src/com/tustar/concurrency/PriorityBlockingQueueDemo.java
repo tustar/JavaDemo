@@ -107,10 +107,10 @@ class PrioritizedTaskProducer implements Runnable {
     }
 }
 
-class PrioritiedTaskConsumer implements Runnable {
+class PrioritizedTaskConsumer implements Runnable {
     private PriorityBlockingQueue<Runnable> queue;
 
-    public PrioritiedTaskConsumer(PriorityBlockingQueue<Runnable> queue) {
+    public PrioritizedTaskConsumer(PriorityBlockingQueue<Runnable> queue) {
         this.queue = queue;
     }
 
@@ -134,6 +134,6 @@ public class PriorityBlockingQueueDemo {
         ExecutorService executor = Executors.newCachedThreadPool();
         PriorityBlockingQueue<Runnable> queue = new PriorityBlockingQueue<>();
         executor.execute(new PrioritizedTaskProducer(queue, executor));
-        executor.execute(new PrioritiedTaskConsumer(queue));
+        executor.execute(new PrioritizedTaskConsumer(queue));
     }
 }
