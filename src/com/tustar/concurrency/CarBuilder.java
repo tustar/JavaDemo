@@ -1,8 +1,5 @@
 package com.tustar.concurrency;
 
-import javafx.scene.transform.Rotate;
-import org.omg.PortableInterceptor.INACTIVE;
-
 import java.util.HashSet;
 import java.util.Set;
 import java.util.concurrent.*;
@@ -76,14 +73,14 @@ class ChassisBuilder implements Runnable {
 
 class Assembler implements Runnable {
 
-    private CarQueue chassisQueue, finshingQueue;
+    private CarQueue chassisQueue, finishingQueue;
     private Car car;
     private CyclicBarrier barrier = new CyclicBarrier(4);
     private RobotPool robotPool;
 
-    public Assembler(CarQueue chassisQueue, CarQueue finshingQueue, RobotPool robotPool) {
+    public Assembler(CarQueue chassisQueue, CarQueue finishingQueue, RobotPool robotPool) {
         this.chassisQueue = chassisQueue;
-        this.finshingQueue = finshingQueue;
+        this.finishingQueue = finishingQueue;
         this.robotPool = robotPool;
     }
 
@@ -106,7 +103,7 @@ class Assembler implements Runnable {
                 robotPool.hire(WheelRobot.class, this);
                 barrier.await(); // Until the robots finish
                 // Put car into finishingQueue or further work
-                finshingQueue.put(car);
+                finishingQueue.put(car);
             }
         } catch (InterruptedException e) {
             System.out.println("Exiting Assembler via interrupt");
