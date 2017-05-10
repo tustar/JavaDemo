@@ -1,0 +1,33 @@
+1: package com.tustar.thinking.io;
+2: 
+3: import com.tustar.utils.FileUtils;
+4: 
+5: import java.io.BufferedReader;
+6: import java.io.IOException;
+7: import java.io.PrintWriter;
+8: import java.io.StringReader;
+9: 
+10: /**
+11:  * Created by tustar on 17-5-10.
+12:  */
+13: public class FileOutputShortcut {
+14:     static String filename = "FileOutputShortcut.out";
+15:     static String file = FileUtils.getSrcJavaFilePath(FileOutputShortcut.class, filename);
+16: 
+17:     public static void main(String[] args) {
+18:         try {
+19:             BufferedReader in = new BufferedReader(new StringReader(BufferedInputFile.read(FileOutputShortcut.class,
+20:                     "FileOutputShortcut.java")));
+21:             PrintWriter out = new PrintWriter(file);
+22:             int lineCount = 1;
+23:             String s;
+24:             while ((s = in.readLine()) != null) {
+25:                 out.println(lineCount++ + ": " + s);
+26:             }
+27:             out.close();
+28:             System.out.println(BufferedInputFile.read(FileOutputShortcut.class, filename));
+29:         } catch (IOException e) {
+30:             e.printStackTrace();
+31:         }
+32:     }
+33: }

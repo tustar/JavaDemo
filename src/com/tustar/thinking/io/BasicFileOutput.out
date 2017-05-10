@@ -1,0 +1,30 @@
+1: package com.tustar.thinking.io;
+2: 
+3: import com.tustar.utils.FileUtils;
+4: 
+5: import java.io.*;
+6: 
+7: /**
+8:  * Created by tustar on 17-5-10.
+9:  */
+10: public class BasicFileOutput {
+11:     static String filename = "BasicFileOutput.out";
+12:     static String file = FileUtils.getSrcJavaFilePath(BasicFileOutput.class, filename);
+13: 
+14:     public static void main(String[] args) {
+15:         try {
+16:             BufferedReader in = new BufferedReader(new StringReader(
+17:                     BufferedInputFile.read(BasicFileOutput.class, "BasicFileOutput.java")));
+18:             PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(file)));
+19:             int lineCount = 1;
+20:             String s;
+21:             while ((s = in.readLine()) != null) {
+22:                 out.println(lineCount++ + ": " + s);
+23:             }
+24:             out.close();
+25:             System.out.println(BufferedInputFile.read(BasicFileOutput.class, filename));
+26:         } catch (IOException e) {
+27:             e.printStackTrace();
+28:         }
+29:     }
+30: }
