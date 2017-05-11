@@ -2,7 +2,10 @@ package com.tustar.thinking.io;
 
 import com.tustar.utils.FileUtils;
 
-import java.io.*;
+import java.io.BufferedInputStream;
+import java.io.DataInputStream;
+import java.io.FileInputStream;
+import java.io.IOException;
 
 /**
  * Created by tustar on 17-5-10.

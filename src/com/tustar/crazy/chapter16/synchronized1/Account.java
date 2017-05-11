@@ -1,7 +1,5 @@
 package com.tustar.crazy.chapter16.synchronized1;
 
-import java.util.concurrent.locks.ReentrantLock;
-
 /**
  * Created by tustar on 6/7/16.
  */

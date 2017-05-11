@@ -1,6 +1,9 @@
 package com.tustar.thinking.io;
 
-import java.io.*;
+import java.io.ByteArrayInputStream;
+import java.io.DataInputStream;
+import java.io.EOFException;
+import java.io.IOException;
 
 /**
  * Created by tustar on 17-5-10.

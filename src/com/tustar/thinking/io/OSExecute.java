@@ -2,7 +2,6 @@ package com.tustar.thinking.io;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.concurrent.ExecutorService;
 
 /**
  * Created by tustar on 17-5-10.

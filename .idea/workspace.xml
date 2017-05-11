@@ -2,65 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c19c9132-1ea4-403d-89a7-8499c9f2d8af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/BasicFileOutput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/BinaryFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/BufferedInputFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/ChangeSystemOut.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/DirList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/DirList2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/Echo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/FileOutputShortcut.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/FormattedMemoryInput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/MemoryInput.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/Redirecting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/StoringAndRecoveringData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/TestEOF.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/TextFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/UsingRandomAccessFile.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/utils/FileUtils.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/AtomicIntegerTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/CaptureUncaughtException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/EvenGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/GreenhouseScheduler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/SerialNumberChecker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/restaurant2/RestaurantWithQueues.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/AtomicEvenGenerator.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/AtomicEvenGenerator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/Atomicity.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Atomicity.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/AtomicityTest.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/AtomicityTest.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/AttemptLocking.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/AttemptLocking.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/BankTellerSimulation.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/BankTellerSimulation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/CarBuilder.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CarBuilder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/Chopstick.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Chopstick.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/CloseResource.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CloseResource.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/CountDownLatchDemo.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CountDownLatchDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/CriticalSection.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CriticalSection.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/DeadlockingDiningPhilosophers.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/DeadlockingDiningPhilosophers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/DelayQueueDemo.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/DelayQueueDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/EvenChecker.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/EvenChecker.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/Fat.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Fat.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/FixedDiningPhilosophers.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/FixedDiningPhilosophers.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/HorseRace.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/HorseRace.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/IntGenerator.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/IntGenerator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/Interrupting.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Interrupting.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/Interrupting2.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Interrupting2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/InterruptingIdiom.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/InterruptingIdiom.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/MultiLock.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/MultiLock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/MutexEvenGenerator.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/MutexEvenGenerator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/NIOInterruption.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/NIOInterruption.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/Philosopher.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Philosopher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/Pool.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Pool.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/PriorityBlockingQueueDemo.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/PriorityBlockingQueueDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/SemaphoreDemo.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SemaphoreDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/SerialNumberGenerator.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SerialNumberGenerator.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/SettingDefaultHandler.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SettingDefaultHandler.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/SynchronizedEvenGenertor.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SynchronizedEvenGenertor.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/restaurant2/Course.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/restaurant2/Course.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/restaurant2/Enums.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/restaurant2/Enums.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/tustar/concurrency/restaurant2/Food.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/restaurant2/Food.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/AvailableCharSets.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/BufferToText.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/ChannelCopy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/GetChannel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/GetData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/IntBufferDemo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/TransferTo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/Sum.java" afterPath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/Sum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/ThreadPoolTest.java" afterPath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/ThreadPoolTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/synchronized1/Account.java" afterPath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/synchronized1/Account.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/java8/AVaC.java" afterPath="$PROJECT_DIR$/src/com/tustar/java8/AVaC.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/java8/Base.java" afterPath="$PROJECT_DIR$/src/com/tustar/java8/Base.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/java8/TaE.java" afterPath="$PROJECT_DIR$/src/com/tustar/java8/TaE.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/lbw/FutrueTaskTest.java" afterPath="$PROJECT_DIR$/src/com/tustar/lbw/FutrueTaskTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/lbw/FutureTest.java" afterPath="$PROJECT_DIR$/src/com/tustar/lbw/FutureTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/lbw/PaCWithBlockingQueue.java" afterPath="$PROJECT_DIR$/src/com/tustar/lbw/PaCWithBlockingQueue.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/DirList2.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/DirList2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/FormattedMemoryInput.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/FormattedMemoryInput.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/TestEOF.java" afterPath="$PROJECT_DIR$/src/com/tustar/thinking/io/TestEOF.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,47 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UsingRandomAccessFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/UsingRandomAccessFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomAccessFile.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/RandomAccessFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="58" column="13" lean-forward="false" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TextFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/TextFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="80" column="43" lean-forward="false" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1620#1621#0" expanded="true" />
-                <element signature="e#1656#1657#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/BinaryFile.java">
+      <file leaf-file-name="IntBufferDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/IntBufferDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
-              <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+              <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -135,72 +61,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Echo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/Echo.java">
+      <file leaf-file-name="GetData.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/GetData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChangeSystemOut.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/ChangeSystemOut.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="192">
+              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Redirecting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/Redirecting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OSExecuteException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-              <folding>
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OSExecute.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OSExecuteDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#202#203#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -232,13 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/tustar/concurrency/SerialNumberChecker.java" />
-        <option value="$PROJECT_DIR$/src/com/tustar/concurrency/AtomicIntegerTest.java" />
-        <option value="$PROJECT_DIR$/src/com/tustar/concurrency/AtomicEvenGenerator.java" />
-        <option value="$PROJECT_DIR$/src/com/tustar/concurrency/CriticalSection.java" />
-        <option value="$PROJECT_DIR$/src/com/tustar/concurrency/Interrupting.java" />
-        <option value="$PROJECT_DIR$/src/com/tustar/concurrency/CloseResource.java" />
-        <option value="$PROJECT_DIR$/src/com/tustar/concurrency/NIOInterruption.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/concurrency/MultiLock.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/concurrency/Interrupting2.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/concurrency/InterruptingIdiom.java" />
@@ -281,8 +140,15 @@
         <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/ChangeSystemOut.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/Redirecting.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteException.java" />
-        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java" />
         <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/ChannelCopy.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/TransferTo.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/GetChannel.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/BufferToText.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/AvailableCharSets.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/GetData.java" />
+        <option value="$PROJECT_DIR$/src/com/tustar/thinking/io/IntBufferDemo.java" />
       </list>
     </option>
   </component>
@@ -293,7 +159,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
+    <option name="x" value="66" />
     <option name="y" value="52" />
     <option name="width" value="1845" />
     <option name="height" value="998" />
@@ -314,8 +180,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -418,6 +282,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -444,15 +310,15 @@
       <recent name="$PROJECT_DIR$/src/com/tustar/lbw" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OSExecuteDemo">
-    <configuration default="false" name="TextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.IntBufferDemo">
+    <configuration default="false" name="TransferTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tustar.thinking.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.TextFile" />
+      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.TransferTo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -465,14 +331,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Echo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="BufferToText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tustar.thinking.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.Echo" />
+      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.BufferToText" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -485,14 +351,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="ChangeSystemOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="AvailableCharSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tustar.thinking.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.ChangeSystemOut" />
+      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.AvailableCharSets" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -505,14 +371,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Redirecting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="GetData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tustar.thinking.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.Redirecting" />
+      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.GetData" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -525,14 +391,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="OSExecuteDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="IntBufferDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.tustar.thinking.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.OSExecuteDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.tustar.thinking.io.IntBufferDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -962,19 +828,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Hello" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TextFile" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Echo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ChangeSystemOut" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Redirecting" />
-      <item index="5" class="java.lang.String" itemvalue="Application.OSExecuteDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TransferTo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.BufferToText" />
+      <item index="3" class="java.lang.String" itemvalue="Application.AvailableCharSets" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GetData" />
+      <item index="5" class="java.lang.String" itemvalue="Application.IntBufferDemo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OSExecuteDemo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Redirecting" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ChangeSystemOut" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Echo" />
-        <item index="4" class="java.lang.String" itemvalue="Application.TextFile" />
+        <item index="0" class="java.lang.String" itemvalue="Application.IntBufferDemo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GetData" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AvailableCharSets" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BufferToText" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TransferTo" />
       </list>
     </recent_temporary>
   </component>
@@ -1004,12 +870,13 @@
       <workItem from="1493964482155" duration="7575000" />
       <workItem from="1494210844068" duration="32642000" />
       <workItem from="1494383368703" duration="5000" />
-      <workItem from="1494385114090" duration="13750000" />
+      <workItem from="1494385114090" duration="14338000" />
+      <workItem from="1494469416732" duration="6264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110522000" />
+    <option name="totallyTimeSpent" value="117374000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1021,8 +888,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="52" width="1845" height="998" extended-state="0" />
-    <editor active="true" />
+    <frame x="66" y="52" width="1845" height="998" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1034,12 +901,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809633" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35091743" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21901056" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22178988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19010562" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1070,93 +937,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/MultiLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="18" lean-forward="false" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Interrupting2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="42" column="49" lean-forward="false" selection-start-line="42" selection-start-column="49" selection-end-line="42" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/InterruptingIdiom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="62" column="22" lean-forward="false" selection-start-line="62" selection-start-column="22" selection-end-line="62" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/EvenGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Chopstick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="20" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/DeadlockingDiningPhilosophers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Philosopher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="23" column="11" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/FixedDiningPhilosophers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="500" column="22" lean-forward="false" selection-start-line="500" selection-start-column="22" selection-end-line="500" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CountDownLatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="72" column="12" lean-forward="true" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/CountDownLatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2241">
@@ -1168,9 +948,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="112" column="38" lean-forward="false" selection-start-line="112" selection-start-column="38" selection-end-line="112" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1178,11 +955,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="55" column="29" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="61" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1353#1354#0" expanded="false" />
-            <element signature="e#2185#2186#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1190,12 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#898#899#0" expanded="false" />
-            <element signature="e#1227#1228#0" expanded="false" />
-            <element signature="e#3152#3153#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1203,19 +969,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2844">
           <caret line="170" column="48" lean-forward="false" selection-start-line="170" selection-start-column="48" selection-end-line="170" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#408#409#0" expanded="false" />
-            <element signature="e#441#442#0" expanded="false" />
-            <element signature="e#501#502#0" expanded="false" />
-            <element signature="e#540#541#0" expanded="false" />
-            <element signature="e#678#679#0" expanded="false" />
-            <element signature="e#749#750#0" expanded="false" />
-            <element signature="e#1569#1570#0" expanded="false" />
-            <element signature="e#1643#1644#0" expanded="false" />
-            <element signature="e#2150#2151#0" expanded="false" />
-            <element signature="e#2201#2202#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1223,12 +976,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding>
-            <element signature="e#364#365#0" expanded="false" />
-            <element signature="e#404#405#0" expanded="false" />
-            <element signature="e#450#451#0" expanded="false" />
-            <element signature="e#488#489#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1237,13 +984,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#476#477#0" expanded="false" />
-            <element signature="e#508#509#0" expanded="false" />
-            <element signature="e#902#903#0" expanded="false" />
-            <element signature="e#951#952#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1251,9 +991,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1044">
           <caret line="60" column="21" lean-forward="false" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1261,7 +998,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="0" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1269,12 +1005,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="53" lean-forward="false" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-          <folding>
-            <element signature="e#252#253#0" expanded="false" />
-            <element signature="e#304#305#0" expanded="false" />
-            <element signature="e#350#351#0" expanded="false" />
-            <element signature="e#410#411#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1282,12 +1012,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <element signature="e#331#332#0" expanded="false" />
-            <element signature="e#379#380#0" expanded="false" />
-            <element signature="e#416#417#0" expanded="false" />
-            <element signature="e#459#460#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1295,27 +1019,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1458">
           <caret line="100" column="51" lean-forward="false" selection-start-line="100" selection-start-column="51" selection-end-line="100" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#506#507#0" expanded="false" />
-            <element signature="e#552#553#0" expanded="false" />
-            <element signature="e#587#588#0" expanded="false" />
-            <element signature="e#621#622#0" expanded="false" />
-            <element signature="e#667#668#0" expanded="false" />
-            <element signature="e#713#714#0" expanded="false" />
-            <element signature="e#861#862#0" expanded="false" />
-            <element signature="e#892#893#0" expanded="false" />
-            <element signature="e#1417#1418#0" expanded="false" />
-            <element signature="e#1459#1460#0" expanded="false" />
-            <element signature="e#2126#2127#0" expanded="false" />
-            <element signature="e#2168#2169#0" expanded="false" />
-            <element signature="e#3330#3331#0" expanded="false" />
-            <element signature="e#3373#3374#0" expanded="false" />
-            <element signature="e#3408#3409#0" expanded="false" />
-            <element signature="e#3439#3440#0" expanded="false" />
-            <element signature="e#6206#6207#0" expanded="false" />
-            <element signature="e#6245#6246#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1323,33 +1026,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3366">
           <caret line="214" column="25" lean-forward="false" selection-start-line="214" selection-start-column="13" selection-end-line="214" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#657#658#0" expanded="false" />
-            <element signature="e#684#685#0" expanded="false" />
-            <element signature="e#721#722#0" expanded="false" />
-            <element signature="e#752#753#0" expanded="false" />
-            <element signature="e#793#794#0" expanded="false" />
-            <element signature="e#826#827#0" expanded="false" />
-            <element signature="e#1233#1234#0" expanded="false" />
-            <element signature="e#1261#1262#0" expanded="false" />
-            <element signature="e#1290#1291#0" expanded="false" />
-            <element signature="e#1317#1318#0" expanded="false" />
-            <element signature="e#1363#1364#0" expanded="false" />
-            <element signature="e#1401#1402#0" expanded="false" />
-            <element signature="e#1680#1681#0" expanded="false" />
-            <element signature="e#1724#1725#0" expanded="false" />
-            <element signature="e#2408#2409#0" expanded="false" />
-            <element signature="e#2453#2454#0" expanded="false" />
-            <element signature="e#2728#2729#0" expanded="false" />
-            <element signature="e#2772#2773#0" expanded="false" />
-            <element signature="e#3590#3591#0" expanded="false" />
-            <element signature="e#3637#3638#0" expanded="false" />
-            <element signature="e#3882#3883#0" expanded="false" />
-            <element signature="e#3926#3927#0" expanded="false" />
-            <element signature="e#4540#4541#0" expanded="false" />
-            <element signature="e#4581#4582#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1357,28 +1033,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="82" column="44" lean-forward="false" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/DirFilter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/DirList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/DirFilter.class" />
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/DirList.class" />
     <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/DirList2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
@@ -1393,7 +1052,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="305">
           <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1419,9 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1437,7 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1465,9 +1119,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1485,7 +1136,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1493,7 +1143,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1501,13 +1150,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/UsingRandomAccessFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="378">
           <caret line="24" column="20" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1517,41 +1165,36 @@
     </entry>
     <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/io/RandomAccessFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
+        <state relative-caret-position="612">
           <caret line="58" column="13" lean-forward="false" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#0#44921#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/TextFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
+        <state relative-caret-position="1314">
           <caret line="80" column="43" lean-forward="false" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1620#1621#0" expanded="true" />
-            <element signature="e#1656#1657#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/BinaryFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
+        <state relative-caret-position="360">
           <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/Echo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
+        <state relative-caret-position="288">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1565,7 +1208,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/Redirecting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="432">
           <caret line="26" column="29" lean-forward="false" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1577,9 +1220,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-          <folding>
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1587,16 +1228,106 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#202#203#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="558">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/TransferTo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/ChannelCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/BufferToText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="52" column="48" lean-forward="false" selection-start-line="52" selection-start-column="48" selection-end-line="52" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/nio/charset/Charset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="661" column="29" lean-forward="false" selection-start-line="661" selection-start-column="29" selection-end-line="661" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="211" column="6" lean-forward="false" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/AvailableCharSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/GetChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/GetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/tustar/thinking/io/IntBufferDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

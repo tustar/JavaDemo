@@ -4,7 +4,6 @@ import com.tustar.utils.ConcurrentUtils;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
 
 /**
  * Created by tustar on 17-4-1.
