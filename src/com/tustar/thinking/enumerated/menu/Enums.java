@@ -1,4 +1,4 @@
-package com.tustar.thinking.concurrency.restaurant2;
+package com.tustar.thinking.enumerated.menu;
 
 import java.util.Random;
 

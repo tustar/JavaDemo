@@ -1,4 +1,4 @@
-package com.tustar.thinking.concurrency.restaurant2;
+package com.tustar.thinking.enumerated.menu;
 
 /**
  * Created by tustar on 17-5-9.

@@ -1,6 +1,9 @@
 package com.tustar.thinking.concurrency.restaurant2;
 
 
+import com.tustar.thinking.enumerated.menu.Course;
+import com.tustar.thinking.enumerated.menu.Food;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
