@@ -1,4 +1,6 @@
-package com.tustar.thinking.enumerated.menu;
+package com.tustar.thinking.enumerated;
+
+import com.tustar.thinking.enumerated.menu.AlarmPoints;
 
 import java.util.EnumMap;
 import java.util.Map;

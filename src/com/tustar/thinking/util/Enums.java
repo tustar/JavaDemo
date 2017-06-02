@@ -1,4 +1,4 @@
-package com.tustar.thinking.enumerated.menu;
+package com.tustar.thinking.util;
 
 import java.util.Random;
 

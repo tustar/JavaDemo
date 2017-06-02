@@ -1,5 +1,7 @@
 package com.tustar.thinking.enumerated.menu;
 
+import com.tustar.thinking.util.Enums;
+
 /**
  * Created by tustar on 17-5-9.
  */
