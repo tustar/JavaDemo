@@ -11,282 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cb7547-4291-471f-80a4-4181c4fd3c6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Create.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Just.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/containers/FailFast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/containers/Utilities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/gui/HelloSwing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Defer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Interval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Repeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatWhen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/FlatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/GroupBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/Keygen.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/Keygen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/codewars/DescendingOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/codewars/DescendingOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/codewars/DnaStrand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/codewars/DnaStrand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/codewars/EANValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/codewars/EANValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/codewars/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/codewars/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/AtomicIntegerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/AtomicIntegerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/BlockingQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/BlockingQueueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/BlockingQueueTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/BlockingQueueTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/DaemanThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/DaemanThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/DeadLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/DeadLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/DrawTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/DrawTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/ExHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/ExHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/Exercise01_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/Exercise01_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/Exercise01_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/Exercise01_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/Exercise02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/Exercise02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/FirstThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/FirstThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/ForkJoinPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/ForkJoinPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/InvokeRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/InvokeRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/JoinThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/JoinThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/PriorityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/PriorityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/SecondThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/SecondThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/SleepTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/SleepTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/StartDead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/StartDead.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/Sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/ThirdThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/ThirdThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/ThreadGroupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/ThreadGroupTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/ThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/ThreadPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/YieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/YieldTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/condition/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/condition/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/condition/DepositThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/condition/DepositThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/condition/DrawTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/condition/DrawTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/condition/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/condition/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/synchronized1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/synchronized1/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/synchronized1/DepositThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/synchronized1/DepositThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/synchronized1/DrawTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/synchronized1/DrawTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/synchronized1/DrawThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/synchronized1/DrawThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/crazy/chapter16/threadlocal/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/crazy/chapter16/threadlocal/ThreadLocalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/demo/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/calculator/Format.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t01/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t01/Count.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t01/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t01/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t02/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t02/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t02/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t02/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t02/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t02/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t02/TraditionalThreadSynchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t02/TraditionalThreadSynchronized.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t03/Plate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t03/Plate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/gaoshuang/t03/ThreadTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gaoshuang/t03/ThreadTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java7/chapter01/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/chapter01/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java7/chapter01/Java6CatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/chapter01/Java6CatchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java7/chapter01/Java6ResourcesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/chapter01/Java6ResourcesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java7/chapter01/Java7CatchExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/chapter01/Java7CatchExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java7/chapter01/Java7ResourcesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/chapter01/Java7ResourcesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java7/chapter02/Listing_2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/chapter02/Listing_2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java7/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java8/AVaC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java8/AVaC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java8/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java8/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java8/SaL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java8/SaL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/java8/TaE.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java8/TaE.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter00/Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter00/Reduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter03/FilterUsingReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter03/FilterUsingReduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter03/MapUsingReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter03/MapUsingReduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter03/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter03/Question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter03/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter03/Question2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter03/StringExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter03/StringExercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter04/Artists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter04/Artists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter04/Performance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter04/Performance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter04/PerformanceFix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter04/PerformanceFix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter05/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter05/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter05/GroupingBy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter05/GroupingBy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter05/LongestName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter05/LongestName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter05/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter05/Question1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter05/WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter05/WordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter06/BuggyReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter06/BuggyReduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter06/OptimisationExampleFixed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter06/OptimisationExampleFixed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter06/SerialToParallel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter06/SerialToParallel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter09/ArtistAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter09/ArtistAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter09/BlockingArtistAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter09/BlockingArtistAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter09/CallbackArtistAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter09/CallbackArtistAnalyser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter09/CompletableFutureArtistAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter09/CompletableFutureArtistAnalyser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lambada/chapter09/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lambada/chapter09/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/AStorehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/AStorehouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/CompletionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/CompletionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/FutrueTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/FutrueTaskTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/FutrueTaskTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/FutrueTaskTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/FutureTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/FutureTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/MyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/MyTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/MyThreadPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/MyThreadPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/PaCUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/PaCUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/PaCWithBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/PaCWithBlockingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/PaCWithLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/PaCWithLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/PaCWithWN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/PaCWithWN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/Producer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/ReadWriteLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/ReadWriteLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/ReenTrantLockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/ReenTrantLockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/SearchTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/SearchTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/ThradPool1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/ThradPool1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/ThreadFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/ThreadFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/ThreadGroupDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/ThreadGroupDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/ThreadLocalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/ThreadLocalTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/lbw/ThreadPool2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/lbw/ThreadPool2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/model/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/model/Album.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/model/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/model/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/model/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/model/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/model/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/model/Track.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/ChildrensPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/ChildrensPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/NewReleasePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/NewReleasePrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/Price.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/RegularPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/RegularPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/Rental.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/chapter01/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/chapter01/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/refactor/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/refactor/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/Enums.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/AtomicEvenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/AtomicEvenGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/AtomicIntegerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/AtomicIntegerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Atomicity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/Atomicity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/AtomicityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/AtomicityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/AttemptLocking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/AttemptLocking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/BankTellerSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/BankTellerSimulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CaptureUncaughtException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/CaptureUncaughtException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CarBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/CarBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Chopstick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/Chopstick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CloseResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/CloseResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/CountDownLatchDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/CriticalSection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/CriticalSection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/DeadlockingDiningPhilosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/DeadlockingDiningPhilosophers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/DelayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/DelayQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/EvenChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/EvenChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/EvenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/EvenGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Fat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/Fat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/FixedDiningPhilosophers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/FixedDiningPhilosophers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/GreenhouseScheduler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/GreenhouseScheduler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/HorseRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/HorseRace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/IntGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/IntGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Interrupting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/Interrupting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Interrupting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/Interrupting2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/InterruptingIdiom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/InterruptingIdiom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/MultiLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/MultiLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/MutexEvenGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/MutexEvenGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/NIOInterruption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/NIOInterruption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Philosopher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/Philosopher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/Pool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/Pool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/PriorityBlockingQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/PriorityBlockingQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/SemaphoreDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SerialNumberChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/SerialNumberChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SerialNumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/SerialNumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SettingDefaultHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/SettingDefaultHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/SynchronizedEvenGenertor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/SynchronizedEvenGenertor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/concurrency/restaurant2/RestaurantWithQueues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/concurrency/restaurant2/RestaurantWithQueues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/Competitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/Competitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/ConstantSpecificMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/ConstantSpecificMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/EnumClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/EnumClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/EnumMaps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/EnumMaps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/EnumSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/EnumSets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/Input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/Outcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/Outcome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/OverrideConstantSpecific.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/OverrideConstantSpecific.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/PostOffice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/PostOffice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/RoShamBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/RoShamBo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/RoShamBo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/RoShamBo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/RoShamBo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/RoShamBo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/RoShamBo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/RoShamBo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/RoShamBo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/RoShamBo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/RoShamBo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/RoShamBo5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/RoShamBo6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/RoShamBo6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/VendingMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/menu/AlarmPoints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/AlarmPoints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/menu/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/menu/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/menu/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/Meal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/menu/Meal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/Meal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/enumerated/menu/SecurityCategory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/SecurityCategory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/AvailableCharSets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/AvailableCharSets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/BasicFileOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/BasicFileOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/BasicFileOutput.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/BasicFileOutput.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/BinaryFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/BinaryFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Blip3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Blip3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Blip3.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Blip3.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Blips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Blips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Blips.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Blips.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/BufferToText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/BufferToText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/BufferedInputFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/BufferedInputFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/ChangeSystemOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/ChangeSystemOut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/ChannelCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/ChannelCopy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/DirList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/DirList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/DirList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/DirList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Echo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Echo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Endians.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Endians.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/FileLocking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/FileLocking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/FileOutputShortcut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/FileOutputShortcut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/FileOutputShortcut.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/FileOutputShortcut.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/FormattedMemoryInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/FormattedMemoryInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/GZIPcompress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/GZIPcompress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/GetChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/GetChannel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/GetData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/GetData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/IntBufferDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/IntBufferDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/LargeMappedFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/LargeMappedFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/LockingMappedFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/LockingMappedFiles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Logon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Logon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Logon.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Logon.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/MappedIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/MappedIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/MemoryInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/MemoryInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/MyWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/MyWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/OSExecute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/OSExecuteDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/OSExecuteException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/OSExecuteException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/PreferencesDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/PreferencesDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/RecoverCADState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/RecoverCADState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Redirecting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Redirecting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/SerialCtl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/SerialCtl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/StoreCADState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/StoreCADState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/StoreCADState.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/StoreCADState.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/StoringAndRecoveringData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/StoringAndRecoveringData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/TestEOF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/TestEOF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/TextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/TextFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/TransferTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/TransferTo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/UsingBuffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/UsingBuffers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/UsingRandomAccessFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/UsingRandomAccessFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/ViewBuffers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/ViewBuffers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/Worm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/Worm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/ZipCompress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/ZipCompress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/data2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/data2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/rtest.dat" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/rtest.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/temp.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/temp.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/test.gz" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/test.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/test.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/test.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/test.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/test.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/test2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/test2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/io/worm.out" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/io/worm.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/BoundedClassReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/BoundedClassReferences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/ClassCasts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/ClassCasts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/ClassInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/ClassInitialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/FilledList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/FilledList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/GenericClassReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/GenericClassReferences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/GenericToyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/GenericToyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/NullRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/NullRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/Position.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/SelectingMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/SelectingMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/Shapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/Shapes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/SimpleDynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/SimpleDynamicProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/SimpleProxyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/SimpleProxyDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/SnowRemovalRobot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/SnowRemovalRobot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/Staff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/SweetShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/SweetShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/ToyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/ToyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/typeinfo/WildcardClassReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/typeinfo/WildcardClassReferences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/util/Enums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/util/Enums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/util/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/util/Generator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/thinking/util/Null.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/thinking/util/Null.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/utils/ConcurrentUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/utils/ConcurrentUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/utils/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/utils/FileUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/tustar/utils/Keygen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/utils/Keygen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -315,6 +52,9 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/gradle">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand>
@@ -331,34 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+      <file leaf-file-name="RepeatUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="JavaDemo.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaDemo.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Create.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Create.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="504">
+              <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -366,20 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Observable.java">
+      <file leaf-file-name="Defer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Defer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12245" column="63" lean-forward="true" selection-start-line="12245" selection-start-column="60" selection-end-line="12245" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Just.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Just.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+            <state relative-caret-position="432">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -387,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="From.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java">
+      <file leaf-file-name="Interval.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Interval.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -399,9 +107,91 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradlew.bat" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew.bat">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="Timer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Timer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Map.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Map.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="37" column="30" selection-start-line="25" selection-start-column="17" selection-end-line="40" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlatMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/FlatMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1218#1219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GroupBy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/GroupBy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Buffer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Buffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Course.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/Course.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -846,6 +636,17 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Create.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Just.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Repeat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatWhen.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Defer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Interval.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Timer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Map.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/FlatMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/GroupBy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Buffer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Window.java" />
       </list>
     </option>
   </component>
@@ -920,7 +721,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tustar" type="462c0819:PsiDirectoryNode" />
               <item name="rxjava" type="462c0819:PsiDirectoryNode" />
-              <item name="ch3" type="462c0819:PsiDirectoryNode" />
+              <item name="ch5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -939,6 +740,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/gradle" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/gradle" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -967,36 +769,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.From">
-    <configuration name="Create" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch3.Create" />
+  <component name="RunManager" selected="Application.Window">
+    <configuration name="Buffer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch5.Buffer" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch3.*" />
+          <option name="PATTERN" value="com.tustar.rxjava.ch5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="From" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch3.From" />
+    <configuration name="FlatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch5.FlatMap" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch3.*" />
+          <option name="PATTERN" value="com.tustar.rxjava.ch5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Just" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch3.Just" />
+    <configuration name="GroupBy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch5.GroupBy" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch3.*" />
+          <option name="PATTERN" value="com.tustar.rxjava.ch5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch5.Map" />
+      <module name="JavaDemo_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tustar.rxjava.ch5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch5.Window" />
+      <module name="JavaDemo_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tustar.rxjava.ch5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1008,21 +832,6 @@
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-    </configuration>
-    <configuration name="/home/tustar/Documents/project/sample/JavaDemo/gradle []" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/gradle" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
@@ -1074,17 +883,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.JavaDemo" />
-      <item itemvalue="Gradle./home/tustar/Documents/project/sample/JavaDemo/gradle []" />
-      <item itemvalue="Application.Create" />
-      <item itemvalue="Application.Just" />
-      <item itemvalue="Application.From" />
+      <item itemvalue="Application.Map" />
+      <item itemvalue="Application.FlatMap" />
+      <item itemvalue="Application.GroupBy" />
+      <item itemvalue="Application.Buffer" />
+      <item itemvalue="Application.Window" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.From" />
-        <item itemvalue="Application.Just" />
-        <item itemvalue="Application.Create" />
-        <item itemvalue="Gradle./home/tustar/Documents/project/sample/JavaDemo/gradle []" />
+        <item itemvalue="Application.Window" />
+        <item itemvalue="Application.Buffer" />
+        <item itemvalue="Application.GroupBy" />
+        <item itemvalue="Application.FlatMap" />
+        <item itemvalue="Application.Map" />
       </list>
     </recent_temporary>
   </component>
@@ -1099,12 +910,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552291924705</updated>
       <workItem from="1552291928709" duration="54000" />
-      <workItem from="1552292075645" duration="3412000" />
+      <workItem from="1552292075645" duration="10087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3466000" />
+    <option name="totallyTimeSpent" value="10141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -1112,16 +923,16 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32910052" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32910052" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35026455" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32910052" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18834323" />
@@ -1164,13 +975,6 @@
     <entry file="file://$PROJECT_DIR$/idea.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1178,13 +982,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="12245" column="63" lean-forward="true" selection-start-line="12245" selection-start-column="60" selection-end-line="12245" selection-end-column="71" />
         </state>
       </provider>
     </entry>
@@ -1208,10 +1005,154 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="1880" column="53" lean-forward="true" selection-start-line="1880" selection-start-column="53" selection-end-line="1880" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableFromFuture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="271">
+          <caret line="87" column="13" lean-forward="true" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Repeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatWhen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Defer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Interval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/FlatMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1153#1154#0" expanded="true" />
+            <element signature="e#1218#1219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/GroupBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="58" lean-forward="true" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="37" column="30" selection-start-line="25" selection-start-column="17" selection-end-line="40" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
