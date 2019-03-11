@@ -1,6 +1,6 @@
 package com.tustar.thinking.enumerated;
 
-import com.tustar.thinking.Enums;
+import com.tustar.thinking.util.Enums;
 
 /**
  * Created by tustar on 17-6-5.
