@@ -11,13 +11,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73cb7547-4291-471f-80a4-4181c4fd3c6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/CombineLastest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Join.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Merge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/RefCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Replay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Zip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/IntLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ReenterLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TimeLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TryLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/StreamWithMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/Streams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -66,96 +69,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Connect.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Connect.java">
+      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/package-info.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ReenterLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ReenterLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="432">
+              <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntLock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/IntLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
-                <element signature="e#863#864#0" expanded="true" />
-                <element signature="e#1127#1128#0" expanded="true" />
-                <element signature="e#1211#1212#0" expanded="true" />
-                <element signature="e#1273#1274#0" expanded="true" />
-                <element signature="e#1356#1357#0" expanded="true" />
-                <element signature="e#1578#1579#0" expanded="true" />
-                <element signature="e#1682#1683#0" expanded="true" />
-                <element signature="e#1978#1979#0" expanded="true" />
-                <element signature="e#2078#2079#0" expanded="true" />
-                <element signature="e#1983#1984#0" expanded="true" />
-                <element signature="e#2066#2067#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RefCount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/RefCount.java">
+      <file leaf-file-name="TimeLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TimeLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            <state relative-caret-position="455">
+              <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#718#719#0" expanded="true" />
-                <element signature="e#806#807#0" expanded="true" />
-                <element signature="e#1119#1120#0" expanded="true" />
-                <element signature="e#1203#1204#0" expanded="true" />
-                <element signature="e#1265#1266#0" expanded="true" />
-                <element signature="e#1348#1349#0" expanded="true" />
-                <element signature="e#1552#1553#0" expanded="true" />
-                <element signature="e#1656#1657#0" expanded="true" />
-                <element signature="e#1968#1969#0" expanded="true" />
-                <element signature="e#2068#2069#0" expanded="true" />
-                <element signature="e#2146#2147#0" expanded="true" />
-                <element signature="e#2245#2246#0" expanded="true" />
-                <element signature="e#2393#2394#0" expanded="true" />
-                <element signature="e#2490#2491#0" expanded="true" />
-                <element signature="e#2763#2764#0" expanded="true" />
-                <element signature="e#2856#2857#0" expanded="true" />
-                <element signature="e#2918#2919#0" expanded="true" />
-                <element signature="e#3010#3011#0" expanded="true" />
-                <element signature="e#3554#3555#0" expanded="true" />
-                <element signature="e#3654#3655#0" expanded="true" />
-                <element signature="e#3732#3733#0" expanded="true" />
-                <element signature="e#3831#3832#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Replay.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Replay.java">
+      <file leaf-file-name="TryLock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TryLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="37" lean-forward="true" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="72" />
+            <state relative-caret-position="59">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#716#717#0" expanded="true" />
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#1068#1069#0" expanded="true" />
-                <element signature="e#1152#1153#0" expanded="true" />
-                <element signature="e#1214#1215#0" expanded="true" />
-                <element signature="e#1297#1298#0" expanded="true" />
-                <element signature="e#1519#1520#0" expanded="true" />
-                <element signature="e#1623#1624#0" expanded="true" />
-                <element signature="e#1935#1936#0" expanded="true" />
-                <element signature="e#2035#2036#0" expanded="true" />
-                <element signature="e#2113#2114#0" expanded="true" />
-                <element signature="e#2212#2213#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Observable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="10512" column="42" selection-start-line="10512" selection-start-column="42" selection-end-line="10512" selection-end-column="42" />
-              <folding>
-                <element signature="e#584082#584083#0" expanded="true" />
-                <element signature="e#584138#584139#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,9 +126,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;@&quot;</find>
+      <find>onObservableSubscribe =</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot; -&gt; time:&quot;</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -176,7 +146,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4" />
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -365,8 +335,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$USER_HOME$/.gradle/gradle.properties" value="758722005" />
-        <entry key="$PROJECT_DIR$" value="7730274187000" />
+        <entry key="$USER_HOME$/.gradle/gradle.properties" value="2244878866" />
+        <entry key="$PROJECT_DIR$" value="7762736615000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="3466822974" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2083459160" />
@@ -597,9 +567,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/Ch2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Ch2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Create.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Just.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java" />
@@ -643,6 +610,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/RefCount.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Connect.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch7/Replay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/Scheduler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/Stream.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/Streams.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/StreamWithMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ReenterLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TimeLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TryLock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/IntLock.java" />
       </list>
     </option>
   </component>
@@ -667,9 +642,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -710,7 +683,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tustar" type="462c0819:PsiDirectoryNode" />
-              <item name="rxjava" type="462c0819:PsiDirectoryNode" />
+              <item name="gg" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -719,17 +692,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tustar" type="462c0819:PsiDirectoryNode" />
-              <item name="rxjava" type="462c0819:PsiDirectoryNode" />
-              <item name="ch7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaDemo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tustar" type="462c0819:PsiDirectoryNode" />
-              <item name="thinking" type="462c0819:PsiDirectoryNode" />
+              <item name="gg" type="462c0819:PsiDirectoryNode" />
+              <item name="ch3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -739,6 +703,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -755,14 +721,15 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.tustar.rxjava.ch5" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tustar.rxjava.ch4" />
+      <recent name="com.tustar.rxjava.ch5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -777,58 +744,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Replay">
-    <configuration name="Connect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch7.Connect" />
+  <component name="RunManager" selected="Application.TryLock">
+    <configuration name="IntLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.IntLock" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch7.*" />
+          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Join" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch7.Join" />
+    <configuration name="ReenterLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.ReenterLock" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch7.*" />
+          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RefCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch7.RefCount" />
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch4.Stream" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch7.*" />
+          <option name="PATTERN" value="com.tustar.rxjava.ch4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Replay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch7.Replay" />
+    <configuration name="TimeLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.TimeLock" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch7.*" />
+          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StartWith" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.rxjava.ch7.StartWith" />
+    <configuration name="TryLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.TryLock" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.rxjava.ch7.*" />
+          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -891,19 +858,19 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.JavaDemo" />
-      <item itemvalue="Application.Join" />
-      <item itemvalue="Application.StartWith" />
-      <item itemvalue="Application.Connect" />
-      <item itemvalue="Application.RefCount" />
-      <item itemvalue="Application.Replay" />
+      <item itemvalue="Application.Stream" />
+      <item itemvalue="Application.ReenterLock" />
+      <item itemvalue="Application.IntLock" />
+      <item itemvalue="Application.TimeLock" />
+      <item itemvalue="Application.TryLock" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Replay" />
-        <item itemvalue="Application.RefCount" />
-        <item itemvalue="Application.Connect" />
-        <item itemvalue="Application.StartWith" />
-        <item itemvalue="Application.Join" />
+        <item itemvalue="Application.TryLock" />
+        <item itemvalue="Application.TimeLock" />
+        <item itemvalue="Application.IntLock" />
+        <item itemvalue="Application.ReenterLock" />
+        <item itemvalue="Application.Stream" />
       </list>
     </recent_temporary>
   </component>
@@ -919,12 +886,16 @@
       <updated>1552291924705</updated>
       <workItem from="1552291928709" duration="54000" />
       <workItem from="1552292075645" duration="10802000" />
-      <workItem from="1552531918674" duration="9160000" />
+      <workItem from="1552531918674" duration="9713000" />
+      <workItem from="1552990647256" duration="1124000" />
+      <workItem from="1553063326868" duration="16328000" />
+      <workItem from="1554097871116" duration="14361000" />
+      <workItem from="1555391537866" duration="1939000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20016000" />
+    <option name="totallyTimeSpent" value="54321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -945,8 +916,9 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18834323" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32910052" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.2995143" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.22126281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -955,7 +927,6 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32910052" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -969,244 +940,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaDemo.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Create.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="40" column="9" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Just.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableFromFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/From.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="87" column="13" lean-forward="true" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Repeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatWhen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/RepeatUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Defer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Interval.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch3/Timer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/FlatMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/GroupBy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/thinking/enumerated/menu/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Buffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="37" column="30" selection-start-line="25" selection-start-column="17" selection-end-line="40" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1560#1561#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Window.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/First.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#837#846#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Last.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Take.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/TakeLast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="81" lean-forward="true" selection-start-line="86" selection-start-column="12" selection-end-line="86" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/SkipLast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/Skip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/ElementAt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Completable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="2370" column="55" selection-start-line="2370" selection-start-column="51" selection-end-line="2370" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Completable.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch5/IgnoreElements.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1214,9 +952,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1224,9 +959,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1234,9 +966,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
           <caret line="50" column="36" lean-forward="true" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1244,9 +973,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1254,9 +980,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1264,9 +987,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="42" column="51" selection-start-line="42" selection-start-column="51" selection-end-line="42" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1274,30 +994,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#752#753#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Single.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="3557" column="28" selection-start-line="3557" selection-start-column="28" selection-end-line="3557" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Single.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch6/SequenceEqual.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="310">
           <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1305,9 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1315,37 +1016,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/disposables/ArrayCompositeDisposable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding>
-            <element signature="e#1315#1316#0" expanded="true" />
-            <element signature="e#1346#1347#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableSkipUntil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="32" column="68" selection-start-line="32" selection-start-column="68" selection-end-line="32" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/disposables/ArrayCompositeDisposable.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableSkipUntil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch6/TakeUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,9 +1032,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1363,9 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1373,9 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="51" column="30" selection-start-line="28" selection-start-column="7" selection-end-line="54" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1383,11 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="35" column="29" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="39" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1395,11 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1298#1299#0" expanded="true" />
-            <element signature="e#1361#1362#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1407,9 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="101" column="21" lean-forward="true" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1417,42 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-            <element signature="e#806#807#0" expanded="true" />
-            <element signature="e#1119#1120#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
-            <element signature="e#1265#1266#0" expanded="true" />
-            <element signature="e#1348#1349#0" expanded="true" />
-            <element signature="e#1552#1553#0" expanded="true" />
-            <element signature="e#1656#1657#0" expanded="true" />
-            <element signature="e#1968#1969#0" expanded="true" />
-            <element signature="e#2068#2069#0" expanded="true" />
-            <element signature="e#2146#2147#0" expanded="true" />
-            <element signature="e#2245#2246#0" expanded="true" />
-            <element signature="e#2393#2394#0" expanded="true" />
-            <element signature="e#2490#2491#0" expanded="true" />
-            <element signature="e#2763#2764#0" expanded="true" />
-            <element signature="e#2856#2857#0" expanded="true" />
-            <element signature="e#2918#2919#0" expanded="true" />
-            <element signature="e#3010#3011#0" expanded="true" />
-            <element signature="e#3554#3555#0" expanded="true" />
-            <element signature="e#3654#3655#0" expanded="true" />
-            <element signature="e#3732#3733#0" expanded="true" />
-            <element signature="e#3831#3832#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="10512" column="42" selection-start-line="10512" selection-start-column="42" selection-end-line="10512" selection-end-column="42" />
-          <folding>
-            <element signature="e#584082#584083#0" expanded="true" />
-            <element signature="e#584138#584139#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1460,21 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#775#776#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#1127#1128#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1273#1274#0" expanded="true" />
-            <element signature="e#1356#1357#0" expanded="true" />
-            <element signature="e#1578#1579#0" expanded="true" />
-            <element signature="e#1682#1683#0" expanded="true" />
-            <element signature="e#1978#1979#0" expanded="true" />
-            <element signature="e#2078#2079#0" expanded="true" />
-            <element signature="e#1983#1984#0" expanded="true" />
-            <element signature="e#2066#2067#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1482,20 +1088,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="37" lean-forward="true" selection-start-line="16" selection-start-column="68" selection-end-line="16" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/ObservableOnSubscribe.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/functions/Function.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/observers/LambdaObserver.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/plugins/RxJavaPlugins.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Observer.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/disposables/Disposable.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/ObservableSource.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableObserveOn.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/fuseable/HasUpstreamObservableSource.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/Stream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableCreate.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/AbstractObservableWithUpstream.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/observers/BasicFuseableObserver.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableMap.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableDoOnEach.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableSubscribeOn.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#716#717#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#1068#1069#0" expanded="true" />
-            <element signature="e#1152#1153#0" expanded="true" />
-            <element signature="e#1214#1215#0" expanded="true" />
-            <element signature="e#1297#1298#0" expanded="true" />
-            <element signature="e#1519#1520#0" expanded="true" />
-            <element signature="e#1623#1624#0" expanded="true" />
-            <element signature="e#1935#1936#0" expanded="true" />
-            <element signature="e#2035#2036#0" expanded="true" />
-            <element signature="e#2113#2114#0" expanded="true" />
-            <element signature="e#2212#2213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/rxjava/ch4/StreamWithMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/Observable.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableJust.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.7/973432567aabd7dda36a4d33bf040f76ae9845ce/rxjava-2.2.7-sources.jar!/io/reactivex/internal/operators/observable/ObservableScalarXMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TryLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TimeLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="26" column="44" lean-forward="true" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ReenterLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/IntLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
           </folding>
         </state>
       </provider>
