@@ -30,6 +30,5 @@ public class TimeLock implements Runnable{
         Thread t2 = new Thread(timeLock);
         t1.start();
         t2.start();
-
     }
 }
