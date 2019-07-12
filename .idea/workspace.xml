@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f22154ae-1db6-44cc-807a-8f8c4d1e9afb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ExtThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/RejectThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ScheduledExecutorServiceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ThreadFactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/CountTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/DivDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TraceThreadPoolExecutor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,21 +24,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExtThreadPool.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ExtThreadPool.java">
+      <file leaf-file-name="CountTask.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/CountTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+            <state relative-caret-position="-223">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#1041#1042#0" expanded="true" />
-                <element signature="e#1122#1123#0" expanded="true" />
-                <element signature="e#1212#1213#0" expanded="true" />
-                <element signature="e#1268#1269#0" expanded="true" />
-                <element signature="e#1357#1358#0" expanded="true" />
-                <element signature="e#1416#1417#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -503,6 +493,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/RejectThreadPoolDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ThreadFactoryDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ExtThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/DivDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TraceThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/CountTask.java" />
       </list>
     </option>
   </component>
@@ -619,31 +612,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExtThreadPool">
+  <component name="RunManager" selected="Application.CountTask">
+    <configuration name="CountTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.CountTask" />
+      <module name="JavaDemo_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DivDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.DivDemo" />
+      <module name="JavaDemo_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ExtThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.ExtThreadPool" />
-      <module name="JavaDemo_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RejectThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.RejectThreadPoolDemo" />
-      <module name="JavaDemo_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tustar.gg.ch3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="ScheduledExecutorServiceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.ScheduledExecutorServiceDemo" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -664,8 +657,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.ThreadPoolDemo" />
+    <configuration name="TraceThreadPoolExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.gg.ch3.TraceThreadPoolExecutor" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -717,19 +710,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.ThreadPoolDemo" />
-      <item itemvalue="Application.ScheduledExecutorServiceDemo" />
-      <item itemvalue="Application.RejectThreadPoolDemo" />
       <item itemvalue="Application.ThreadFactoryDemo" />
       <item itemvalue="Application.ExtThreadPool" />
+      <item itemvalue="Application.DivDemo" />
+      <item itemvalue="Application.TraceThreadPoolExecutor" />
+      <item itemvalue="Application.CountTask" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountTask" />
+        <item itemvalue="Application.TraceThreadPoolExecutor" />
+        <item itemvalue="Application.DivDemo" />
         <item itemvalue="Application.ExtThreadPool" />
         <item itemvalue="Application.ThreadFactoryDemo" />
-        <item itemvalue="Application.RejectThreadPoolDemo" />
-        <item itemvalue="Application.ScheduledExecutorServiceDemo" />
-        <item itemvalue="Application.ThreadPoolDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -745,12 +738,12 @@
       <updated>1562742087360</updated>
       <workItem from="1562742088715" duration="329000" />
       <workItem from="1562745783967" duration="8576000" />
-      <workItem from="1562814428564" duration="10639000" />
+      <workItem from="1562814428564" duration="16446000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19544000" />
+    <option name="totallyTimeSpent" value="25351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -767,7 +760,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38795987" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47939262" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.4793757" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.257886" />
@@ -1107,19 +1100,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="356" column="35" selection-start-line="356" selection-start-column="32" selection-end-line="356" selection-end-column="35" />
-          <folding>
-            <element signature="e#16766#16767#0" expanded="true" />
-            <element signature="e#16801#16802#0" expanded="true" />
-            <element signature="e#32187#32188#0" expanded="true" />
-            <element signature="e#32243#32244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/ExtThreadPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
@@ -1134,6 +1114,47 @@
             <element signature="e#1268#1269#0" expanded="true" />
             <element signature="e#1357#1358#0" expanded="true" />
             <element signature="e#1416#1417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/DivDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1341" column="16" selection-start-line="1341" selection-start-column="16" selection-end-line="1341" selection-end-column="16" />
+          <folding>
+            <element signature="e#16766#16767#0" expanded="true" />
+            <element signature="e#16801#16802#0" expanded="true" />
+            <element signature="e#32187#32188#0" expanded="true" />
+            <element signature="e#32243#32244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/TraceThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="45" column="45" lean-forward="true" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding>
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/gg/ch3/CountTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
