@@ -1,8 +1,5 @@
 package com.tustar.thinking.typeinfo;
 
-import sun.security.provider.SHA;
-
-import java.nio.ShortBuffer;
 import java.util.Arrays;
 import java.util.List;
 
