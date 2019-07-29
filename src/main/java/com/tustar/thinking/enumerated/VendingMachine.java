@@ -125,11 +125,11 @@ public class VendingMachine {
         }
 
         void next(Input input) {
-            throw new RuntimeException("Only call " + "next(Input input) for non-transient states");
+            throw new RuntimeException("Only call " + "superior(Input input) for non-transient states");
         }
 
         void next() {
-            throw new RuntimeException("Only call next() for " + "StateDuration.TRANSIENT states");
+            throw new RuntimeException("Only call superior() for " + "StateDuration.TRANSIENT states");
         }
 
         void output() {
