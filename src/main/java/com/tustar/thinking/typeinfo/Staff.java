@@ -38,7 +38,7 @@ public class Staff extends ArrayList<Position> {
                 return;
             }
         }
-        throw new RuntimeException("Position " + title + " not available");
+        throw new RuntimeException("Coord " + title + " not available");
     }
 
     public static void main(String[] args) {

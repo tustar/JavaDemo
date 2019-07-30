@@ -42,6 +42,6 @@ public class Position {
 
     @Override
     public String toString() {
-        return "\nPosition: " + title + " " + person;
+        return "\nCoord: " + title + " " + person;
     }
 }
