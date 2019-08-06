@@ -5,41 +5,30 @@ package com.tustar.pattern.behavioral.state;
  */
 public class Steam extends H2OState {
 
-    public Steam(H2O h2O) {
-        super(h2O);
-    }
-
     @Override
-    public void coolDown(int degree) {
-        diffusion();
-        super.coolDown(degree);
-    }
-
-    @Override
-    public void warmUp(int degree) {
-        diffusion();
-        super.warmUp(degree);
-    }
-
-    @Override
-    public void updateState() {
+    public void updateState(H2O h2O) {
         if (h2O.getTemperature() > 0) {
-            h2O.setState(new Steam(h2O));
-            System.out.println("水蒸气．液华了");
+            System.out.print("水蒸气．液华了，");
+            h2O.setState(new Water());
+            System.out.println("水蒸气=>水");
             return;
         }
 
         if (h2O.getTemperature() <= 0) {
-            h2O.setState(new Water(h2O));
-            System.out.println("水蒸气．凝化了");
+            System.out.print("水蒸气．凝化了，");
+            h2O.setState(new Ice());
+            System.out.println("水蒸气=>冰");
             return;
         }
+
+        System.out.print("   状态未变化, 水蒸气, ");
+        diffusion();
     }
 
     /**
      * 扩散
      */
     public void diffusion() {
-        System.out.println("原状态：水蒸气=>可扩散");
+        System.out.println("水蒸气=>可扩散");
     }
 }

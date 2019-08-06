@@ -135,7 +135,7 @@ public class TaE {
 //                callable("task2", 1),
 //                callable("task3", 3)
 //        );
-//        String result = null;
+//        String result = nil;
 //        try {
 //            result = executor.invokeAny(callables);
 //        } catch (InterruptedException e) {

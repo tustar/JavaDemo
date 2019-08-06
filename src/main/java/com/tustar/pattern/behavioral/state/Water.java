@@ -2,38 +2,27 @@ package com.tustar.pattern.behavioral.state;
 
 public class Water extends H2OState {
 
-    public Water(H2O h2O) {
-        super(h2O);
-    }
-
     @Override
-    public void coolDown(int degree) {
-        flow();
-        super.coolDown(degree);
-    }
-
-    @Override
-    public void warmUp(int degree) {
-        flow();
-        super.warmUp(degree);
-    }
-
-    @Override
-    public void updateState() {
+    public void updateState(H2O h2O) {
         if (h2O.getTemperature() >= 100) {
-            h2O.setState(new Steam(h2O));
-            System.out.println("水．蒸发了");
+            System.out.print("水．蒸发了,");
+            h2O.setState(new Steam());
+            System.out.println("水=>水蒸气");
             return;
         }
 
         if (h2O.getTemperature() <= 0) {
-            h2O.setState(new Water(h2O));
-            System.out.println("水．凝固了");
+            System.out.print("水．凝固了,");
+            h2O.setState(new Ice());
+            System.out.println("水=>冰");
             return;
         }
+
+        System.out.print("   状态未变化, 水, ");
+        flow();
     }
 
     public void flow() {
-        System.out.println("原状态：水=>可流动");
+        System.out.println("水=>可流动");
     }
 }
