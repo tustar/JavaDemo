@@ -2,128 +2,122 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f22154ae-1db6-44cc-807a-8f8c4d1e9afb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/Notify.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/WaitNotifyInterrupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/WaitRelease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/DuckAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/DuckTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/DuckTestDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/TurkeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/TurkeyTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/WildTurkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/challenge/Drone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/challenge/DroneAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/challenge/SuperDrone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum/EI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum/EnumerationIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum/EnumerationIteratorTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum/IteratorEnumeration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum/IteratorEnumerationTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/CeilingFanHighCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/CeilingFanMediumCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/Hottub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/HottubOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/HottubOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/LivingroomLightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/LivingroomLightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/MacroCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/RemoteLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/StereoOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/StereoOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/StereoOnWithCDCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/TVOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/TVOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/CeilingFanOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/GarageDoorDownCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/GarageDoorUpCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/Hottub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/HottubOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/HottubOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/LivingroomLightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/LivingroomLightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/RemoteLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/StereoOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/StereoOnWithCDCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/Stereo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/GarageDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/GarageDoorOpenCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/SimpleRemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/RemoteControlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/SimpleRemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/CeilingFan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/CeilingFanHighCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/CeilingFanLowCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/CeilingFanMediumCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/CeilingFanOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/DimmerLightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/DimmerLightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/LightOffCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/LightOnCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/NoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/RemoteControlWithUndo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/RemoteLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Amplifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/CdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/DvdPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/HomeTheaterFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/HomeTheaterTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/PopcornPopper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Projector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Screen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/TheaterLights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Tuner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/BeverageTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CaffeineBeverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CaffeineBeverageWithHook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CoffeeWithHook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/TeaWithHook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck/DuckSortTestDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Barista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/isInterrupted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/FilledDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/Resort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestForContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestForContent2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestUnsafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestUnsafeRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch4/Atomic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch6/TestPark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menu/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menu/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menu/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menu/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menuiterator/CompositeIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menuiterator/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menuiterator/MenuComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menuiterator/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menuiterator/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menuiterator/NullIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menuiterator/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/ArrayIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/ArrayListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/PancakeHouseMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermerger/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/CafeMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergercafe/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/AlternatingDinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/dinermergeri/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/transition/DinerMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/transition/DinerMenuIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/transition/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/transition/MenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/transition/MenuTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/transition/PancakeHouseMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/transition/Waitress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMachineRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMonitorTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/WinnerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/GumballMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/WinnerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/javaproxy/MatchMakingTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/javaproxy/NonOwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/javaproxy/OwnerInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/javaproxy/PersonBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/javaproxy/PersonBeanImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/virtualproxy/ImageComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/virtualproxy/ImageProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/virtualproxy/ImageProxyTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumball/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumball/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/GumballMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/GumballMachineTestDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/HasQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/NoQuarterState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/SoldOutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/SoldState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/WinnerState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/HelloImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/HelloServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/IHello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -135,6 +129,20 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -191,107 +199,39 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Coffee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Coffee.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RandomTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding>
-                <element signature="e#177#178#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#504#505#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Tea.java">
+      <file leaf-file-name="RandomTest2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="252">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Barista.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Barista.java">
+      <file leaf-file-name="Atomic.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch4/Atomic.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Coffee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/Coffee.java">
+      <file leaf-file-name="TestPark.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch6/TestPark.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaffeineBeverage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CaffeineBeverage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeverageTestDrive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/BeverageTestDrive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="16" selection-end-line="23" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Duck.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck/Duck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DuckSortTestDrive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck/DuckSortTestDrive.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CaffeineBeverageWithHook.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CaffeineBeverageWithHook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tea.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/Tea.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="43" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <element signature="e#277#278#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -747,31 +687,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/WaitNotifyInterrupt.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/Notify.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/LigthOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/SimpleRemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/RemoteControlTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/Light.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/GarageDoorOpenCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/GarageDoorOpenCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/GarageDoor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/Light.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/Light.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/LightOnCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/RemoteControlTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/GarageDoorOpenCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/SimpleRemoteControl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremote/LightOffCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/Command.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/NoCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/OffCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/RemoteControl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remoteWL/Stereo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/NoCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/Light.java" />
@@ -798,6 +713,31 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CaffeineBeverageWithHook.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/BeverageTestDrive.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck/Duck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/applet/MyApplet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menu/MenuItem.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/iterator/implicit/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite/menu/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumball/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/GumballMonitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMonitorTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/IHello.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/HelloImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/HelloServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/isInterrupted.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestUnsafe.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestUnsafeRef.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/Resort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestForContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestForContent２.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestForContent2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/FilledLong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/FilledDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch4/Atomic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch6/TestPark.java" />
       </list>
     </option>
   </component>
@@ -806,6 +746,9 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <option name="showIgnored" value="false" />
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -821,6 +764,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -861,7 +807,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tustar" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="broadview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -870,8 +816,8 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tustar" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="templatemethod" type="462c0819:PsiDirectoryNode" />
+              <item name="broadview" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaDemo" type="b2602c69:ProjectViewProjectNode" />
@@ -881,34 +827,31 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../coding/watch-php" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/APIDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tustar.broadview.concurrent.ch3" />
+      <recent name="com.tustar.broadview.concurrent.ch2" />
       <recent name="com.tustar.headfirst.designpatterns.templatemethod.simplebarista" />
       <recent name="com.tustar.headfirst.designpatterns.command.remoteWL" />
       <recent name="com.tustar.headfirst.designpatterns.command.simpleremote" />
-      <recent name="com.tustar.headfirst.designpatterns.command.party" />
-      <recent name="com.tustar.headfirst.designpatterns.command.remote" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/composite" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod" />
       <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum" />
-      <recent name="$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -923,69 +866,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyFrame">
-    <configuration name="Barista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.headfirst.designpatterns.templatemethod.simplebarista.Barista" />
+  <component name="RunManager" selected="Application.TestPark">
+    <configuration name="Atomic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.broadview.concurrent.ch4.Atomic" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.headfirst.designpatterns.templatemethod.simplebarista.*" />
+          <option name="PATTERN" value="com.tustar.broadview.concurrent.ch4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="BeverageTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.headfirst.designpatterns.templatemethod.barista.BeverageTestDrive" />
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.broadview.concurrent.ch3.RandomTest" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.headfirst.designpatterns.templatemethod.barista.*" />
+          <option name="PATTERN" value="com.tustar.broadview.concurrent.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.pattern.behavioral.interpreter.Client" />
+    <configuration name="RandomTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.broadview.concurrent.ch3.RandomTest2" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.pattern.behavioral.interpreter.*" />
+          <option name="PATTERN" value="com.tustar.broadview.concurrent.ch3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="DuckSortTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.headfirst.designpatterns.templatemethod.duck.DuckSortTestDrive" />
+    <configuration name="TestForContent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.broadview.concurrent.ch2.TestForContent" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.headfirst.designpatterns.templatemethod.duck.*" />
+          <option name="PATTERN" value="com.tustar.broadview.concurrent.ch2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.headfirst.designpatterns.adapter.iterenum.EI" />
+    <configuration name="TestPark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tustar.broadview.concurrent.ch6.TestPark" />
       <module name="JavaDemo_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tustar.headfirst.designpatterns.adapter.iterenum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="MyFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tustar.headfirst.designpatterns.templatemethod.frame.MyFrame" />
-      <module name="JavaDemo_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.tustar.headfirst.designpatterns.templatemethod.frame.*" />
+          <option name="PATTERN" value="com.tustar.broadview.concurrent.ch6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1032,19 +964,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.EI" />
-      <item itemvalue="Application.Barista" />
-      <item itemvalue="Application.BeverageTestDrive" />
-      <item itemvalue="Application.DuckSortTestDrive" />
-      <item itemvalue="Application.MyFrame" />
+      <item itemvalue="Application.TestForContent" />
+      <item itemvalue="Application.RandomTest" />
+      <item itemvalue="Application.RandomTest2" />
+      <item itemvalue="Application.Atomic" />
+      <item itemvalue="Application.TestPark" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyFrame" />
-        <item itemvalue="Application.DuckSortTestDrive" />
-        <item itemvalue="Application.BeverageTestDrive" />
-        <item itemvalue="Application.Barista" />
-        <item itemvalue="Application.EI" />
+        <item itemvalue="Application.TestPark" />
+        <item itemvalue="Application.Atomic" />
+        <item itemvalue="Application.RandomTest2" />
+        <item itemvalue="Application.RandomTest" />
+        <item itemvalue="Application.TestForContent" />
       </list>
     </recent_temporary>
   </component>
@@ -1067,15 +999,21 @@
       <workItem from="1565055057002" duration="1806000" />
       <workItem from="1565083104971" duration="3433000" />
       <workItem from="1565226422959" duration="2666000" />
-      <workItem from="1565313718538" duration="12604000" />
+      <workItem from="1565313718538" duration="13170000" />
+      <workItem from="1565572614975" duration="11286000" />
+      <workItem from="1565663079693" duration="2429000" />
+      <workItem from="1566266243062" duration="4103000" />
+      <workItem from="1566356117417" duration="431000" />
+      <workItem from="1566956325170" duration="10323000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151617000" />
+    <option name="totallyTimeSpent" value="180755000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -1086,24 +1024,24 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4871795" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28762543" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47826087" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32887402" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.21306032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.2257886" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Gradle" order="8" weight="0.510101" />
       <window_info anchor="right" x="755" y="238" width="476" height="639" id="Structure" order="10" sideWeight="0.50161815" side_tool="true" type="WINDOWED" weight="0.257886" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39910814" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32887402" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32887402" />
@@ -1116,345 +1054,362 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/remote/CeilingFan.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/CeilingFan.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/simpleremoteWL/SimpleRemoteControl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstate/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="-18">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/Command.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/LightOnCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/state/gumballstatewinner/GumballMachine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/NoCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/NoQuarterState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/RemoteLoader.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/SoldOutState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/RemoteControlWithUndo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-288">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/party/MacroCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/SoldState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/Light.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/command/undo/LightOffCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/Duck.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/State.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/MallardDuck.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/WinnerState.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-          <folding>
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/Turkey.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-907">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumballmonitor/GumballMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/State.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/DuckAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/ducks/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/ducks/DuckTestDriver.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/ducks/DuckAdapter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/ducks/TurkeyAdapter.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/ducks/Turkey.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/ducks/Duck.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/ducks/WildTurkey.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/DuckTestDriver.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/SoldState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/TurkeyAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/SoldOutState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/NoQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/HasQuarterState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/WinnerState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="78" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="81" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMachineRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMonitorTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMachineTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/TurkeyTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMonitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="126">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/gumball/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/IHello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/rmi/server/UnicastRemoteObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-538">
+          <caret line="146" column="13" selection-start-line="146" selection-start-column="13" selection-end-line="146" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/HelloImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/rmi/Naming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="116" column="23" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/java7/rmi/HelloServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/virtualproxy/ImageProxyTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/virtualproxy/ImageComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/javax/swing/ImageIcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="196" column="11" selection-start-line="196" selection-start-column="11" selection-end-line="196" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/virtualproxy/ImageProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/javaproxy/OwnerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/proxy/javaproxy/NonOwnerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/WaitNotifyInterrupt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/WaitRelease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/challenge/DroneAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/Notify.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="-6">
+          <caret line="38" column="3" lean-forward="true" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/challenge/Drone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/challenge/SuperDrone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum/EnumerationIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/iterenum/EI.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch1/isInterrupted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/adapter/ducks/DuckTestDrive.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="90">
+          <caret line="42" column="17" lean-forward="true" selection-end-line="437" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestUnsafe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="32" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestUnsafeRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Amplifier.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Tuner.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/Resort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="630">
+          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/TheaterLights.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestForContent2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="288">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Screen.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/TestForContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="234">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/Projector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/PopcornPopper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/HomeTheaterTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/facade/hometheater/HomeTheaterFacade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1214">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/package-info.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Coffee.java">
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/jre/lib/rt.jar!/sun/misc/Contended.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-          </folding>
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Tea.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch2/FilledDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="372">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/simplebarista/Barista.java">
+    <entry file="file://$PROJECT_DIR$/out/production/classes/com/tustar/headfirst/designpatterns/proxy/virtualproxy/ImageProxy.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch3/RandomTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch4/Atomic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/Coffee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/broadview/concurrent/ch6/TestPark.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/Tea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CaffeineBeverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/CaffeineBeverageWithHook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/barista/BeverageTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="16" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck/DuckSortTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tustar/headfirst/designpatterns/templatemethod/duck/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
